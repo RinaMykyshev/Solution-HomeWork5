@@ -1,4 +1,4 @@
-package src.proxy;
+package Task1.src.proxy;
 
 public class RealImage implements Image {
     private String filename;

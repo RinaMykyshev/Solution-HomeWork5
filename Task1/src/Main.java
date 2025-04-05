@@ -1,7 +1,7 @@
-package src;
-import src.proxy.Image;
-import src.proxy.ProxyImage;
-import src.proxy.ProtectedImageUploader;
+package Task1.src;
+import Task1.src.proxy.Image;
+import Task1.src.proxy.ProxyImage;
+import Task1.src.proxy.ProtectedImageUploader;
 
 public class Main {
     public static void main(String[] args) {
